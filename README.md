@@ -1,3 +1,6 @@
+> **Language Notice**: 
+> [View in Arabic (العربية)](README_AR.md) |
+
 # List Capacity and Count Demo in C#
 
 This C# program demonstrates how the `Count` and `Capacity` properties of a `List<int>` change dynamically as items are added and removed. It showcases the automatic resizing behavior of .NET's `List<T>` collection.
