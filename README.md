@@ -17,7 +17,7 @@ This C# program demonstrates how the `Count` and `Capacity` properties of a `Lis
 1. **Prerequisites**: Install [.NET SDK](https://dotnet.microsoft.com/download) (version 5.0+ recommended)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MohmdAliMohmd/UnderstandingCountCapacityList.git
    ```
 3. Run the program:
    ```bash
