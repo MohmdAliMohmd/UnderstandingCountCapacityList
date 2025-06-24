@@ -18,7 +18,7 @@
 1. **المتطلبات المسبقة**: تثبيت [.NET SDK](https://dotnet.microsoft.com/download/download) (الإصدار 5.0+ موصى به)
 2. استنساخ المستودع:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/MohmdAliMohmd/UnderstandingCountCapacityList.git
    ```
 3. تشغيل البرنامج:
    ```bash
